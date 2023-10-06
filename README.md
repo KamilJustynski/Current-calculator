@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Current calculator](https://r0galkj.github.io/Current-calculator/)
+[Current calculator](https://kamiljustynski.github.io/Current-calculator/)
 
 **Convert your currency in a calculator built on current exchange rates!**
 
